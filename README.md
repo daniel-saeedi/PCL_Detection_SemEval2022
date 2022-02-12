@@ -31,19 +31,12 @@ The data used in this study is available [upon request](https://docs.google.com/
 You can download a copy of all the files in this repository by cloning the
 [git](https://git-scm.com/) repository:
 
-    git clone https://github.com/pinga-lab/PAPER-REPO.git
+    git clone https://github.com/daniel-saeedi/PCL_Detection_SemEval2022.git
 
-or [download a zip archive](https://github.com/pinga-lab/PAPER-REPO/archive/master.zip).
+or [download a zip archive](https://github.com/daniel-saeedi/PCL_Detection_SemEval2022/archive/refs/heads/main.zip).
 
 
 ## Dependencies
 
-You'll need a working Python environment to run the code.
-The recommended way to set up your environment is through the
-[Anaconda Python distribution](https://www.anaconda.com/download/) which
-provides the `conda` package manager.
-Anaconda can be installed in your user directory and does not interfere with
-the system Python installation.
-The required dependencies are specified in the file `environment.yml`.
-
-We use `conda` virtual environments to manage the project dependencies in
+Run this command to install dependencies:
+    pip3 install -r requirements.txt 
