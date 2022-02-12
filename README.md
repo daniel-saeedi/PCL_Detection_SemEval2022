@@ -1,4 +1,6 @@
 # SemEval2022 Patronizing and Condescending Language (PCL) Detection
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This task is from [SemEval 2022](https://semeval.github.io/SemEval2022/).
 
 # What is Patronizing and Condescending Language (PCL)?
