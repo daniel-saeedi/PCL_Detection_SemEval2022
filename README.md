@@ -1,4 +1,6 @@
 # SemEval2022 Patronizing and Condescending Language (PCL) Detection
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This task is from [SemEval 2022](https://semeval.github.io/SemEval2022/).
 
 # What is Patronizing and Condescending Language (PCL)?
@@ -13,12 +15,11 @@ For more details about the task check out [here](https://sites.google.com/view/p
 
 ## Abstract
 
-> Fill later
+> 
 
 ## Software implementation
 
-> Briefly describe the software that was written to produce the results of this
-> paper.
+> 
 
 All source code used to generate the results and figures in the paper are in
 the `code` folder.
@@ -31,19 +32,13 @@ The data used in this study is available [upon request](https://docs.google.com/
 You can download a copy of all the files in this repository by cloning the
 [git](https://git-scm.com/) repository:
 
-    git clone https://github.com/pinga-lab/PAPER-REPO.git
+    git clone https://github.com/daniel-saeedi/PCL_Detection_SemEval2022.git
 
-or [download a zip archive](https://github.com/pinga-lab/PAPER-REPO/archive/master.zip).
+or [download a zip archive](https://github.com/daniel-saeedi/PCL_Detection_SemEval2022/archive/refs/heads/main.zip).
 
 
 ## Dependencies
 
-You'll need a working Python environment to run the code.
-The recommended way to set up your environment is through the
-[Anaconda Python distribution](https://www.anaconda.com/download/) which
-provides the `conda` package manager.
-Anaconda can be installed in your user directory and does not interfere with
-the system Python installation.
-The required dependencies are specified in the file `environment.yml`.
+Run this command to install dependencies:
 
-We use `conda` virtual environments to manage the project dependencies in
+    pip3 install -r requirements.txt
