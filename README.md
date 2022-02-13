@@ -15,12 +15,11 @@ For more details about the task check out [here](https://sites.google.com/view/p
 
 ## Abstract
 
-> Fill later
+> 
 
 ## Software implementation
 
-> Briefly describe the software that was written to produce the results of this
-> paper.
+> 
 
 All source code used to generate the results and figures in the paper are in
 the `code` folder.
@@ -41,4 +40,5 @@ or [download a zip archive](https://github.com/daniel-saeedi/PCL_Detection_SemEv
 ## Dependencies
 
 Run this command to install dependencies:
-    pip3 install -r requirements.txt 
+
+    pip3 install -r requirements.txt
