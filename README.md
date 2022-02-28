@@ -1,4 +1,4 @@
-# SemEval2022 Patronizing and Condescending Language (PCL) Detection
+# SemEval-2022 Task 4: Effective Data Augmentation Methods for Patronizing Language Detection and Multi-label Classification
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # What is Patronizing and Condescending Language (PCL)?
