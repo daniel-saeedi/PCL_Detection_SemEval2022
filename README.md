@@ -17,8 +17,6 @@ For more details about the task check out [here](https://sites.google.com/view/p
 
 ## Software implementation
 
-> This paper presented a system description for PCL detection and multi-label categorization tasks. Our exploratory data analysis revealed annotated PCL dataset is highly imbalanced. We enhanced data quality with a combination of data augmentation methods. We evaluated the performance of the large pre-trained RoBERTa model on the extra en- riched PCL dataset. We boosted the baseline perfor- mance and achieved competitive results among the top-16 SemEval-2022 participants. Furthermore, we tried two models of GPT3, Davinci and Curie with Few-Shot learning technique. Our investi- gation showed both models perform well without hyper-parameter tuning and on just a few exam- ples of PCL. We believe these tasks have many potentials and challenges to further improve cur- rent results.
-
 All source code used to generate the results and figures in the paper are in
 the `code` folder.
 The calculations and figure generation are all run inside
